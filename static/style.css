@@ -1,5 +1,21 @@
 /* Put your CSS Styling here! */
 
 body {
-	background-color: green;
+	background-color: white;
+}
+
+h1 {
+	color: #0a2200;
+}
+
+p {
+	color: #ff782e;
+}
+
+h2{
+	color: 	#ff7f7f;	
+}
+
+li {
+	color: #d2ffce;
 }
